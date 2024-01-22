@@ -1,6 +1,5 @@
 # Configuration file for https://circleci.com/gh/angular/angular.js
 
-# Note: YAML anchors allow an object to be re-used, reducing duplication.
 # The ampersand declares an alias for an object, then later the `<<: *name`
 # syntax dereferences it.
 # See http://blog.daemonl.com/2016/02/yaml.html
